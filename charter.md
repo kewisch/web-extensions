@@ -53,6 +53,13 @@ Extensions API and the extensions and permissions models it's based on.
 This specification will be based on the existing extensions model and
 API supported by Chrome and Firefox.
 
+Note: There was an earlier attempt within the [Browser Extension
+Community Group](https://www.w3.org/community/browserext/) to
+standardize [Browser
+Extensions](https://browserext.github.io/browserext/). Much good
+progress was made, but unfortunately the spec did not gain sufficient
+interest from implementers and work on it ceased.
+
 ### Specifications
 
 ### Non-Normative Reports
