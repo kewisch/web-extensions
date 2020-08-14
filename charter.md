@@ -189,3 +189,7 @@ as deliverable dates by the simpler group decision process rather than
 this charter amendment process. The group will use the amendment process
 for any substantive changes to the goals, scope, deliverables, decision
 process or rules for amending the charter.
+
+---
+
+This charter was derived from the [Community and Business Group charter template](https://w3c.github.io/cg-charter/CGCharter.html) which is both [copyright](http://www.w3.org/Consortium/Legal/ipr-notice) © 2016, 2017, 2018 [World Wide Web Consortium](http://www.w3.org/), ([Massachusetts Institute of Technology</a>](http://www.lcs.mit.edu/), [European Research Consortium for Informatics and Mathematics](http://www.ercim.org/), [Keio University](http://www.keio.ac.jp/), [Beihang](http://ev.buaa.edu.cn/)) and available under the [W3C Software and Document License](https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document).
