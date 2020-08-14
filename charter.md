@@ -193,8 +193,7 @@ there is sustained, subtantive disagreement with an Editor's decision,
 the Editors and [Chairs](#chairs) may issue a Call for Consensus [CfC]
 to allow multi-day online feedback for a proposed course of action.
 After discussion and due consideration of different opinions, a decision
-should be publicly recorded (where GitHub is used as the resolution of
-an Issue).
+should be publicly recorded on GitHub.
 
 If substantial disagreement remains (e.g. the group is divided) and the
 group needs to decide an Issue in order to continue to make progress,
