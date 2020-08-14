@@ -112,14 +112,13 @@ files.
 
 ### Transparency
 
-The group will conduct all of its technical work in public. If the group
-uses GitHub, all technical work will occur in its GitHub repositories
-(and not in mailing list discussions). This is to ensure contributions
-can be tracked through a software tool.
+The group will conduct all of its technical work in public. All
+technical work will occur in its GitHub repositories (and not in mailing
+list discussions). This is to ensure contributions can be tracked
+through a software tool.
 
 Meetings may be restricted to Community Group participants, but a public
-summary or minutes must be posted to the group's public mailing list, or
-to a GitHub issue if the group uses GitHub.
+summary or minutes must be posted to GitHub.
 
 ### Decision Process
 
@@ -132,7 +131,7 @@ feedback for a proposed course of action). It is expected that
 participants can earn Committer status through a history of valuable
 contributions as is common in open source projects. After discussion and
 due consideration of different opinions, a decision should be publicly
-recorded (where GitHub is used as the resolution of an Issue).
+recorded on GitHub.
 
 If substantial disagreement remains (e.g. the group is divided) and the
 group needs to decide an Issue in order to continue to make progress,
@@ -145,8 +144,7 @@ implementation experience inform which spec is ultimately chosen by the
 group to move ahead with.
 
 Any decisions reached at any meeting are tentative and should be
-recorded in a GitHub Issue for groups that use GitHub and otherwise on
-the group's public mail list. Any group participant may object to a
+recorded in a GitHub Issue. Any group participant may object to a
 decision reached at an online or in-person meeting within 7 days of
 publication of the decision provided that they include clear technical
 reasons for their objection. The Chairs will facilitate discussion to
