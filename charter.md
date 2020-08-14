@@ -85,7 +85,7 @@ including:
   * encouraging participation in the group,
   * and keeping this Charter compliant with the [Community and Business
     Group Process](#community-and-business-group-process), [updating it
-    as necessary](#amending-this-charter).
+    as necessary](#amendments-to-this-charter).
 
 The Chairs have a number of other powers and responsibilities which are
 defined throughout this document.
