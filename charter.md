@@ -187,8 +187,10 @@ whichever is later. A new charter must receive 2/3 of the votes cast in
 the approval vote to pass. The group may make simple corrections to the
 charter such as deliverable dates by the simpler group decision process
 rather than this charter amendment process. The group will use the
-amendment process for any substantive changes to the goals, scope,
-deliverables, decision process or rules for amending the charter.
+amendment process for any substantive changes to the [goals](#goals),
+[scope](#scope-of-work), [deliverables](#deliverables), [decision
+process](#decision-process) or [rules for amending the
+charter](#amendments-to-this-charter).
 
 ---
 
