@@ -20,13 +20,14 @@ please [file issues](https://github.com/hober/web-extensions/issues).*
   - [Non-Normative Reports](#non-normative-reports)
   - [Test Suites and Other Software](#test-suites-and-other-software)
 - [Dependencies or Liaisons](#dependencies-or-liaisons)
-- [Community and Business Group Process](#community-and-business-group-process)
-- [Work Limited to Charter Scope](#work-limited-to-charter-scope)
-- [Contribution Mechanics](#contribution-mechanics)
-- [Transparency](#transparency)
-- [Decision Process](#decision-process)
-- [Chair Selection](#chair-selection)
-- [Amendments to this Charter](#amendments-to-this-charter)
+- [Process](#process)
+  - [Community and Business Group Process](#community-and-business-group-process)
+  - [Work Limited to Charter Scope](#work-limited-to-charter-scope)
+  - [Contribution Mechanics](#contribution-mechanics)
+  - [Transparency](#transparency)
+  - [Decision Process](#decision-process)
+  - [Chair Selection](#chair-selection)
+  - [Amendments to this Charter](#amendments-to-this-charter)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -54,7 +55,9 @@ information.
 
 ## Dependencies or Liaisons
 
-## Community and Business Group Process
+## Process
+
+### Community and Business Group Process
 
 The group operates under the [Community and Business
 Group Process](https://www.w3.org/community/about/agreements/). Terms in this Charter that conflict with those of the
@@ -75,13 +78,13 @@ The [W3C Code of
 Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/) applies to participation in
 this group.
 
-## Work Limited to Charter Scope
+### Work Limited to Charter Scope
 
 The group will not publish Specifications on topics other than those
 listed under [Specifications](#specifications) above. See
 below for [how to modify the charter](#amendments-to-this-charter).
 
-## Contribution Mechanics
+### Contribution Mechanics
 
 Substantive Contributions to Specifications can only be made by Community
 Group Participants who have agreed to the [W3C Community
@@ -101,7 +104,7 @@ copy of the [CONTRIBUTING](https://github.com/w3c/licenses/blob/master/CG-CONTRI
 and [LICENSE](https://github.com/w3c/licenses/blob/master/CG-LICENSE.md)
 files.
 
-## Transparency
+### Transparency
 
 The group will conduct all of its technical work in public. If the group
 uses GitHub, all technical work will occur in its GitHub repositories
@@ -112,7 +115,7 @@ Meetings may be restricted to Community Group participants, but a public
 summary or minutes must be posted to the group's public mailing list, or
 to a GitHub issue if the group uses GitHub.
 
-## Decision Process
+### Decision Process
 
 This group will seek to make decisions where there is consensus. Groups
 are free to decide how to make decisions (e.g. Participants who have
@@ -147,7 +150,7 @@ It is the Chairs' responsibility to ensure that the decision process is
 fair, respects the consensus of the CG, and does not unreasonably favour
 or discriminate against any group participant or their employer.
 
-## Chair Selection
+### Chair Selection
 
 Participants in this group choose their Chair(s) and can replace their
 Chair(s) at any time using whatever means they prefer. However, if 5
@@ -172,7 +175,7 @@ Participants dissatisfied with the outcome of an election may ask the
 Community Development Lead to intervene. The Community Development Lead,
 after evaluating the election, may take any action including no action.
 
-## Amendments to this Charter
+### Amendments to this Charter
 
 The group can decide to work on a proposed amended charter, editing the
 text using the [Decision Process](#decision-process) described above.
