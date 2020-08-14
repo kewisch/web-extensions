@@ -1,29 +1,12 @@
-{TBD: This is a draft template that Community or Business Groups MAY
-choose to use for their Group Charter. You may edit your charter to
-remove or change the text provided here. Community Groups SHOULD have
-charters as a way to build shared understanding within a group about
-activities, and to attract new participants who appreciate a clear
-description of the group's scope and deliverables.}
+# [DRAFT] Web Extensions Community Group Charter
 
-{TBD: The charter sections below include notes (marked with “{TBD”) on
-what to include and recommended text. Please remember to remove the notes
-in your specific charter.}
+*This Charter is work in progress. To submit feedback,
+please [file issues](https://github.com/hober/web-extensions/issues).*
 
-# [DRAFT] {TBD: name} Community Group Charter
-
-{TBD: remove next sentence before submitting for
-approval} This Charter is work in progress. To submit feedback,
-please use {TBD:GitHub repository URL} Issues
-where Charter is being developed.
-
-  * This Charter: {TBD: URI}
-  * Previous Charter: {TBD: URI}
-  * Start Date: {TBD: date the charter takes effect,
-    estimate if not known. Update this if the charter is revised and include
-    a link to the previous version of the charter.}
-  * Last Modifed: {TBD: If the system does not
-    automatically provide information about the date of the last
-    modification, it can be useful to include that in the charter.}
+  * This Charter: https://github.com/hober/web-extensions/blob/main/charter.md
+  * Previous Charter: None
+  * Start Date: TBD
+  * Last Modifed: This is the first version.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -49,35 +32,13 @@ where Charter is being developed.
 
 ## Goals
 
-{TBD: describe the mission and goals of the
-Community Group. This should be a brief description describing the reason
-the group has been formed.}
-
 ## Scope of Work
 
-{TBD: Describe topics that are in scope. For specifications that the CLA
-patent section applies to, it is helpful to describe the scope in a way
-that it is clear what types of technologies will be defined in
-specifications, as opposed to adoption by reference or underlying
-technology not defined in the proposed spec. Key use cases are often
-helpful in describing scope. If no specifications will be defined in the
-group that the CLA patent section applies to, the charter should clearly
-state that. A clear scope is particularly important where patent
-licensing obligations may apply.}
-
 ### Out of Scope
-
-{TBD: Identify topics known in advance to be out of scope}
 
 ## Deliverables
 
 ### Specifications
-
-{TBD: Provide a brief description of each specification the group plans
-to produce. Where an estimate is possible, it can be useful to provide an
-estimated schedule for key deliverables. As described below, the group
-may later modify the charter deliverables. if no specifications, include:
-"No Specifications will be produced under the current charter."}
 
 ### Non-Normative Reports
 
@@ -87,19 +48,11 @@ requirements, or white papers.
 
 ### Test Suites and Other Software
 
-{TBD: If there are no plans to create a test suite or other software,
-please state that and remove the following paragraph. If Github is not
-being used, then indicate where the license information is. If GitHub is
-being used link to your LICENSE.md file in the next paragraph.}
-
 The group MAY produce test suites to support the Specifications. Please
 see the GitHub LICENSE file for test suite contribution licensing
 information.
 
 ## Dependencies or Liaisons
-
-{TBD: List any significant dependencies on other groups (inside or
-outside W3C) or materials. }
 
 ## Community and Business Group Process
 
@@ -137,10 +90,6 @@ Contributor License Agreement (CLA)](http://www.w3.org/community/about/agreement
 Specifications created in the Community Group must use the 
 [W3C Software and Document License](http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document). All other documents produced by
 the group should use that License where possible.
-
-{TBD: if CG doesn't use GitHub replace the remaining paragraphs in this
-section with: "All Contributions are made on the groups public mail list
-or public contrib list"}
 
 Community Group participants agree to make all contributions in the
 GitHub repo the group is using for the particular document. This may be
