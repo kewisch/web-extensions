@@ -104,12 +104,6 @@ GitHub repo the group is using for the particular document. This may be
 in the form of a pull request (preferred), by raising an issue, or by
 adding a comment to an existing issue.
 
-All Github repositories attached to the Community Group must contain a
-copy of the
-[CONTRIBUTING](https://github.com/w3c/licenses/blob/master/CG-CONTRIBUTING.md)
-and [LICENSE](https://github.com/w3c/licenses/blob/master/CG-LICENSE.md)
-files.
-
 ### Transparency
 
 The group will conduct all of its technical work in public. All
