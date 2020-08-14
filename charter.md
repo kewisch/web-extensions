@@ -20,6 +20,8 @@ issues](https://github.com/hober/web-extensions/issues).*
   - [Non-Normative Reports](#non-normative-reports)
   - [Test Suites and Other Software](#test-suites-and-other-software)
 - [Dependencies or Liaisons](#dependencies-or-liaisons)
+- [Chairs](#chairs)
+- [Editors](#editors)
 - [Process](#process)
   - [Community and Business Group Process](#community-and-business-group-process)
   - [Work Limited to Charter Scope](#work-limited-to-charter-scope)
@@ -54,6 +56,74 @@ see the GitHub LICENSE file for test suite contribution licensing
 information.
 
 ## Dependencies or Liaisons
+
+We will seek wide review of our work, particularly in the areas of
+architecture, accessibility, internationalization, privacy, and
+security.
+
+## Chairs
+
+The Chairs of the Web Extensions Community Group are:
+
+  * Person 3 (Company C)
+  * Person 4 (Company D)
+
+The Chairs are responsible for the day-to-day running of the group,
+including:
+
+  * ensuring the group adheres to its [Process](#process),
+  * appointing [Editors](#editors) for [Deliverables](#deliverables),
+  * focusing the group's limited time on the work most likely to
+    positively advance web extensions via wide implementation and
+    adoption,
+  * managing the group's GitHub repositories, website, and online
+    presence,
+  * moderating the group's discussions, whatever the forum (GitHub,
+    mailing lists, face to face, etc.),
+  * running teleconferences and face-to-face meetings,
+  * resolving conflicts between contributors,
+  * encouraging participation in the group,
+  * and keeping this Charter compliant with the [Community and Business
+    Group Process](#community-and-business-group-process), [updating it
+    as necessary](#amending-this-charter).
+
+The Chairs have a number of other powers and responsibilities which are
+defined throughout this document.
+
+## Editors
+
+Each [Deliverable](#deliverables) has one or more Editors who are
+appointed by the [Chairs](#chairs).
+
+Editors are responsible for the technical content of their Deliverable
+and have sole authority to modify it (though their decisions may be
+overridden by the Chairs; [see above](#decision-process)).
+
+Editors are responsible for
+
+  * ensuring any applied changes fulfill the relevant criteria for
+    changes,
+  * reducing open issues,
+  * helping to manage the corresponding tests,
+  * ensuring (together with implementers) implementations follow the
+    requirements and vice versa (The “don’t write fiction” rule.),
+  * ensuring contributions to their Deliverable are only made by
+    Community Group Participants who have agreed to the [W3C Community
+    Contributor License Agreement
+    (CLA)](https://www.w3.org/community/about/agreements/cla/), and
+  * and ensuring that there are no unresolved substantive objections
+    from Community Group Participants before merging contributions or
+    otherwise modifying their Deliverable.
+
+Changes of an editorial nature can be made, accepted, or rejected by
+Editors without discussion.
+
+Editors may solicit input from Community Group Participants, and may
+consider and respond to comments, suggestions, and objections from
+participants and the public.
+
+Editors may commit changes to their Deliverable without further review,
+provided they adhere to the requirements in this Charter.
 
 ## Process
 
@@ -116,26 +186,21 @@ summary or minutes must be posted to GitHub.
 
 ### Decision Process
 
-This group will seek to make decisions where there is consensus. Groups
-are free to decide how to make decisions (e.g. Participants who have
-earned Committer status for a history of useful contributions assess
-consensus, or the Chair assesses consensus, or where consensus isn't
-clear there is a Call for Consensus [CfC] to allow multi-day online
-feedback for a proposed course of action). It is expected that
-participants can earn Committer status through a history of valuable
-contributions as is common in open source projects. After discussion and
-due consideration of different opinions, a decision should be publicly
-recorded on GitHub.
+This group will seek to make decisions where there is consensus.
+[Editors](#editors) assess consensus on issues related to their
+[Deliverable](#deliverables). Where consensus isn't clear, or where
+there is sustained, subtantive disagreement with an Editor's decision,
+the Editors and [Chairs](#chairs) may issue a Call for Consensus [CfC]
+to allow multi-day online feedback for a proposed course of action.
+After discussion and due consideration of different opinions, a decision
+should be publicly recorded (where GitHub is used as the resolution of
+an Issue).
 
 If substantial disagreement remains (e.g. the group is divided) and the
 group needs to decide an Issue in order to continue to make progress,
-the Committers will choose an alternative that had substantial support
-(with a vote of Committers if necessary). Individuals who disagree with
-the choice are strongly encouraged to take ownership of their objection
-by taking ownership of an alternative fork. This is explicitly allowed
-(and preferred to blocking progress) with a goal of letting
-implementation experience inform which spec is ultimately chosen by the
-group to move ahead with.
+the Chairs will, in consultation with the Editors and group, choose an
+alternative that had substantial support and which drew the weakest
+objections.
 
 Any decisions reached at any meeting are tentative and should be
 recorded in a GitHub Issue. Any group participant may object to a
@@ -151,12 +216,13 @@ or discriminate against any group participant or their employer.
 
 ### Chair Selection
 
-Participants in this group choose their Chair(s) and can replace their
-Chair(s) at any time using whatever means they prefer. However, if 5
-participants, no two from the same organisation, call for an election,
-the group must use the following process to replace any current Chair(s)
-with a new Chair, consulting the Community Development Lead on election
-operations (e.g., voting infrastructure and using [RFC
+Additional [Chairs](#chairs) may be appointed by unanimous consent of
+the then-current Chairs.
+
+If 5 participants, no two from the same organisation, call for an
+election, the group must use the following process to replace all of the
+Chairs with a new Chair, consulting the Community Development Lead on
+election operations (e.g., voting infrastructure and using [RFC
 2777](https://tools.ietf.org/html/rfc2777)).
 
   * Participants announce their candidacies. Participants have 14 days
@@ -168,8 +234,8 @@ operations (e.g., voting infrastructure and using [RFC
   * Participants vote. Participants have 21 days to vote for a single
     candidate, but this period ends as soon as all participants have
     voted. The individual who receives the most votes, no two from the
-    same organisation, is elected chair. In case of a tie, RFC2777 is
-    used to break the tie. An elected Chair may appoint co-Chairs.
+    same organisation, is elected chair. In case of a tie, RFC 2777 is
+    used to break the tie.
 
 Participants dissatisfied with the outcome of an election may ask the
 Community Development Lead to intervene. The Community Development Lead,
