@@ -97,7 +97,7 @@ appointed by the [Chairs](#chairs).
 
 Editors are responsible for the technical content of their Deliverable
 and have sole authority to modify it (though their decisions may be
-overridden by the Chairs; [see above](#decision-process)).
+overridden by the Chairs; [see below](#decision-process)).
 
 Editors are responsible for
 
