@@ -1,7 +1,9 @@
-# [DRAFT] Web Extensions Community Group Charter
+# [DRAFT] WebExtensions Community Group Charter
 
 *This Charter is work in progress. To submit feedback, please [file
 issues](https://github.com/hober/web-extensions/issues).*
+
+The WebExtensions Community Group defines [WebExtensions](#web-extensions).
 
   * This Charter: https://github.com/hober/web-extensions/blob/main/charter.md
   * Previous Charter: None
@@ -40,6 +42,25 @@ issues](https://github.com/hober/web-extensions/issues).*
 ### Out of Scope
 
 ## Deliverables
+
+#### WebExtensions
+
+Editors:
+
+  * Person 1 (Company A)
+  * Person 2 (Company B)
+
+The group will produce a WebExtensions specification, including the Web
+Extensions API and the extensions and permissions models it's based on.
+This specification will be based on the existing extensions model and
+API supported by Chrome and Firefox.
+
+Note: There was an earlier attempt within the [Browser Extension
+Community Group](https://www.w3.org/community/browserext/) to
+standardize [Browser
+Extensions](https://browserext.github.io/browserext/). Much good
+progress was made, but unfortunately the spec did not gain sufficient
+interest from implementers and work on it ceased.
 
 ### Specifications
 
