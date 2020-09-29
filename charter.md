@@ -94,11 +94,12 @@ Community Group Participants who have agreed to the [W3C Community
 Contributor License Agreement
 (CLA)](http://www.w3.org/community/about/agreements/cla/).
 
-Specifications created in the Community Group must use the [Creative
-Commons Attribution 4.0 International
-License](https://creativecommons.org/licenses/by/4.0/).
+Specifications created in the Community Group must use the [W3C Software
+and Document
+License](http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document).
+
 All other documents produced by the group should use that License where
-possible.
+possible (except for tests; [see above](#test-suites-and-other-software).
 
 Community Group participants agree to make all contributions in the
 GitHub repo the group is using for the particular document. This may be
