@@ -72,9 +72,10 @@ requirements, or white papers.
 
 ### Test Suites and Other Software
 
-The group MAY produce test suites to support the Specifications. Please
-see the GitHub LICENSE file for test suite contribution licensing
-information.
+The group MAY produce test suites to support the Specifications. Any
+test suites produced by this group will be made available under [the
+same license as
+WPT](https://github.com/web-platform-tests/wpt/blob/master/LICENSE.md).
 
 ## Dependencies or Liaisons
 
@@ -187,8 +188,9 @@ Contributor License Agreement
 Specifications created in the Community Group must use the [W3C Software
 and Document
 License](http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document).
+
 All other documents produced by the group should use that License where
-possible.
+possible (except for tests; [see above](#test-suites-and-other-software).
 
 Community Group participants agree to make all contributions in the
 GitHub repo the group is using for the particular document. This may be
