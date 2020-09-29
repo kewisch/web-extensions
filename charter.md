@@ -19,6 +19,7 @@ The WebExtensions Community Group defines [WebExtensions](#web-extensions).
   - [Out of Scope](#out-of-scope)
 - [Deliverables](#deliverables)
   - [Specifications](#specifications)
+    - [WebExtensions](#webextensions)
   - [Non-Normative Reports](#non-normative-reports)
   - [Test Suites and Other Software](#test-suites-and-other-software)
 - [Dependencies or Liaisons](#dependencies-or-liaisons)
@@ -43,6 +44,8 @@ The WebExtensions Community Group defines [WebExtensions](#web-extensions).
 
 ## Deliverables
 
+### Specifications
+
 #### WebExtensions
 
 Editors:
@@ -61,8 +64,6 @@ standardize [Browser
 Extensions](https://browserext.github.io/browserext/). Much good
 progress was made, but unfortunately the spec did not gain sufficient
 interest from implementers and work on it ceased.
-
-### Specifications
 
 ### Non-Normative Reports
 
