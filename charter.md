@@ -84,6 +84,9 @@ We will seek wide review of our work, particularly in the areas of
 architecture, accessibility, internationalization, privacy, and
 security.
 
+Should a Specification of ours mature sufficiently, we will pursue
+standardization in an appropriate venue.
+
 ## Chairs
 
 The Chairs of the Web Extensions Community Group are:
