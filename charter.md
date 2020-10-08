@@ -38,6 +38,12 @@ The WebExtensions Community Group defines [WebExtensions](#web-extensions).
 
 ## Goals
 
+We will specify a model, permissions, and a common core of APIs for web
+browser extensions (hereafter WebExtensions). By specifying the APIs,
+functionality, and permissions of WebExtensions, we can make it even
+easier for extension developers to enhance end user experience, while
+moving them towards APIs that improve performance and prevent abuse.
+
 ## Design Principles
 
 Our principles are inspired by the [HTML Design
@@ -96,7 +102,7 @@ standardization in an appropriate venue.
 
 ## Chairs
 
-The Chairs of the Web Extensions Community Group are:
+The Chairs of the WebExtensions Community Group are:
 
   * Person 3 (Company C)
   * Person 4 (Company D)
@@ -107,7 +113,7 @@ including:
   * ensuring the group adheres to its [Process](#process),
   * appointing [Editors](#editors) for [Deliverables](#deliverables),
   * focusing the group's limited time on the work most likely to
-    positively advance web extensions via wide implementation and
+    positively advance WebExtensions via wide implementation and
     adoption,
   * managing the group's GitHub repositories, website, and online
     presence,
