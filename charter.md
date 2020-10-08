@@ -38,6 +38,13 @@ The WebExtensions Community Group defines [WebExtensions](#web-extensions).
 
 ## Goals
 
+## Design Principles
+
+Our principles are inspired by the [HTML Design
+Principles](https://www.w3.org/TR/html-design-principles/) and the [W3C
+TAG Ethical Web
+Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).
+
 ## Scope of Work
 
 ### Out of Scope
