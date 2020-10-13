@@ -51,6 +51,22 @@ Principles](https://www.w3.org/TR/html-design-principles/) and the [W3C
 TAG Ethical Web
 Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).
 
+### User-centered
+
+Browser extensions enable users to customize their web browsing experience
+according to their preferences and needs. [[People should be able to render web
+content as they
+want](https://w3ctag.github.io/ethical-web-principles/#render)] [[The
+Internet is for End
+Users](https://intarchboard.github.io/for-the-users/draft-iab-for-the-users.html)]
+
+We will specify extension APIs that enable developers to write a variety
+of useful browser extensions.
+
+In conflict, we will prioritize the needs of end users over the needs of
+developers and implementers. [[Priority of
+Constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies)]
+
 ## Scope of Work
 
 The following things are in-scope for this Community Group:
