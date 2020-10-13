@@ -53,7 +53,28 @@ Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/).
 
 ## Scope of Work
 
+The following things are in-scope for this Community Group:
+
+  * An extensions model—the basic architecture of extensions and how the
+    different pieces interrelate. This definition will include a
+    description of the trust model, the differing trust between browsers
+    and extensions and between extensions and web pages.
+  * A permissions model—what sorts of powerful features extensions may
+    access, and how extensions may request user consent to access them.
+  * WebExtensions APIs—the interface extensions are built on.
+  * A packaging format, including a manifest format and how extensions
+    are localized.
+  * Native Messaging—the API surface extensions use to exchange messages with native applications running on the host system.
+
 ### Out of Scope
+
+The following things are out-of-scope:
+
+* Deployment mechanisms, including but not limited to:
+    * methods for signing extensions
+    * file extensions
+    * mime types
+* WebDriver integration
 
 ## Deliverables
 
