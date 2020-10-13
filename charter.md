@@ -67,6 +67,13 @@ In conflict, we will prioritize the needs of end users over the needs of
 developers and implementers. [[Priority of
 Constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies)]
 
+### Performance
+
+We should enable developers to write extensions that do not negatively
+impact web page or browser performance or power consumption. [[The web
+must be an environmentally sustainable
+platform](https://www.w3.org/2001/tag/doc/ethical-web-principles/#sustainable)]
+
 ## Scope of Work
 
 The following things are in-scope for this Community Group:
