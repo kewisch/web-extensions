@@ -76,6 +76,15 @@ practices &amp; reduce the harm a compromised or malicious browser
 extensions can do. [[Security and privacy are
 essential](https://w3ctag.github.io/ethical-web-principles/#privacy)]
 
+### Privacy
+
+Likewise, users should not have to make tradeoffs between functionality
+and privacy. We will enable browser extensions to enhance the user’s
+experience while requiring the minimum access necessary to the user’s
+browsing data in order to reduce or eliminate the tradeoff end-users
+must make between functionality and privacy. [[Security and privacy are
+essential](https://w3ctag.github.io/ethical-web-principles/#privacy)]
+
 ### Performance
 
 We should enable developers to write extensions that do not negatively
