@@ -67,6 +67,13 @@ In conflict, we will prioritize the needs of end users over the needs of
 developers and implementers. [[Priority of
 Constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies)]
 
+### Performance
+
+We should enable developers to write extensions that do not negatively
+impact web page or browser performance or power consumption. [[The web
+must be an environmentally sustainable
+platform](https://www.w3.org/2001/tag/doc/ethical-web-principles/#sustainable)]
+
 ### Security
 
 When choosing extensions to use, users should not have to make tradeoffs
@@ -85,12 +92,22 @@ browsing data in order to reduce or eliminate the tradeoff end-users
 must make between functionality and privacy. [[Security and privacy are
 essential](https://w3ctag.github.io/ethical-web-principles/#privacy)]
 
-### Performance
+### Portability
 
-We should enable developers to write extensions that do not negatively
-impact web page or browser performance or power consumption. [[The web
-must be an environmentally sustainable
-platform](https://www.w3.org/2001/tag/doc/ethical-web-principles/#sustainable)]
+It should be relatively straightforward for developers to port
+extensions from one browser to another, and for browsers to support
+extensions on a variety of devices and operating systems. [[The web is
+multi-browser, multi-OS, and
+multi-device](https://w3ctag.github.io/ethical-web-principles/#multi)]
+[[Media
+Independence](https://www.w3.org/TR/html-design-principles/#media-independence)]
+
+We will keep the number of UI entry points to a minimum to avoid locking
+implementers into overly-limited UI patterns. This helps to ensure
+extensions work across browsers, devices, and UI paradigms.
+
+Our specifications should not make reference to or rely on specific
+browser engine implementation details.
 
 ## Scope of Work
 
