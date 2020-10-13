@@ -67,6 +67,15 @@ In conflict, we will prioritize the needs of end users over the needs of
 developers and implementers. [[Priority of
 Constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies)]
 
+### Security
+
+When choosing extensions to use, users should not have to make tradeoffs
+between functionality and security. We will specify new extension APIs,
+make model changes, and improve permissions to promote good security
+practices &amp; reduce the harm a compromised or malicious browser
+extensions can do. [[Security and privacy are
+essential](https://w3ctag.github.io/ethical-web-principles/#privacy)]
+
 ### Performance
 
 We should enable developers to write extensions that do not negatively
