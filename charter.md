@@ -109,6 +109,12 @@ extensions work across browsers, devices, and UI paradigms.
 Our specifications should not make reference to or rely on specific
 browser engine implementation details.
 
+### Well-defined Behavior
+
+We will rigorously define the behavior of extension APIs to enable
+browser developers to best achieve interoperability. [[Well-defined
+Behavior](https://www.w3.org/TR/html-design-principles/#well-defined-behavior)]
+
 ## Scope of Work
 
 The following things are in-scope for this Community Group:
