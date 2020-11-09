@@ -109,6 +109,18 @@ extensions work across browsers, devices, and UI paradigms.
 Our specifications should not make reference to or rely on specific
 browser engine implementation details.
 
+### Maintainability
+
+We will strive for simplicity in our APIs, to enable the widest group of
+developers to author extensions, and to make it easy for them to
+maintain the extensions they author. We will keep the number of APIs
+extensions must adopt to a minimum, and will only revise such APIs
+infrequently, to keep the maintenance cost of extensions as low as we
+can. [[The web must enhance individuals' control and
+power](https://w3ctag.github.io/ethical-web-principles/#control)]
+[[Avoid Needless
+Complexity](https://www.w3.org/TR/html-design-principles/#avoid-needless-complexity)]
+
 ### Well-defined Behavior
 
 We will rigorously define the behavior of extension APIs to enable
