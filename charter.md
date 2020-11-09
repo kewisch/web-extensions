@@ -67,6 +67,16 @@ In conflict, we will prioritize the needs of end users over the needs of
 developers and implementers. [[Priority of
 Constituencies](https://www.w3.org/TR/html-design-principles/#priority-of-constituencies)]
 
+### Compatibility
+
+We strive to maintain and improve compatibility with popular existing
+extensions and extension APIs. [[Support Existing
+Content](https://www.w3.org/TR/html-design-principles/#support-existing-content)]
+This will enable developers to not have to completely rewrite their
+extensions to work in different browsers, which can be error-prone. [[Do
+Not Reinvent the
+Wheel](https://www.w3.org/TR/html-design-principles/#do-not-reinvent-the-wheel)]
+
 ### Performance
 
 We should enable developers to write extensions that do not negatively
