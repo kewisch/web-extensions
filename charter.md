@@ -15,6 +15,15 @@ The WebExtensions Community Group defines [WebExtensions](#web-extensions).
 ## Table of Contents
 
 - [Goals](#goals)
+- [Design Principles](#design-principles)
+  - [User-centered](#user-centered)
+  - [Compatibility](#compatibility)
+  - [Performance](#performance)
+  - [Security](#security)
+  - [Privacy](#privacy)
+  - [Portability](#portability)
+  - [Maintainability](#maintainability)
+  - [Well-defined Behavior](#well-defined-behavior)
 - [Scope of Work](#scope-of-work)
   - [Out of Scope](#out-of-scope)
 - [Deliverables](#deliverables)
