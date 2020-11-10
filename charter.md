@@ -146,6 +146,20 @@ We will rigorously define the behavior of extension APIs to enable
 browser developers to best achieve interoperability. [[Well-defined
 Behavior](https://www.w3.org/TR/html-design-principles/#well-defined-behavior)]
 
+### Autonomy
+
+We recognize that browser vendors need to provide functionality that is specific
+to their browser and also need the ability to experiment with new features. Our
+process embraces this and seeks to provide mechanisms for specifying
+inconsistencies and working towards eventual unification where appropriate.
+Given this, we expect browser vendors to offer APIs and capabilities beyond what's specified.
+
+Of course, the need for autonomy must be balanced against the need to provide
+developers with a consistent and interoperable platform. To that end, we seek to
+specify a common platform that includes the base extension model, permissions
+model, and a common core of APIs for web extensions that all browsers can build
+upon.
+
 ## Scope of Work
 
 The following things are in-scope for this Community Group:
