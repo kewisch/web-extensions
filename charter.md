@@ -193,8 +193,8 @@ The following things are out-of-scope:
 
 Editors:
 
-  * Person 1 (Company A)
-  * Person 2 (Company B)
+  * Mukul Purohit (Microsoft)
+  * Tomislav Jonanovic (Mozilla)
 
 The group will produce a WebExtensions specification, including the Web
 Extensions API and the extensions and permissions models it's based on.
@@ -234,8 +234,8 @@ standardization in an appropriate venue.
 
 The Chairs of the WebExtensions Community Group are:
 
-  * Person 3 (Company C)
-  * Person 4 (Company D)
+  * Simeon Vincent (Google)
+  * Timothy Hatcher (Apple)
 
 The Chairs are responsible for the day-to-day running of the group,
 including:
