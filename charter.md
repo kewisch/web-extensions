@@ -191,11 +191,6 @@ The following things are out-of-scope:
 
 #### WebExtensions
 
-Editors:
-
-  * Mukul Purohit (Microsoft)
-  * Tomislav Jonanovic (Mozilla)
-
 The group will produce a WebExtensions specification, including the Web
 Extensions API and the extensions and permissions models it's based on.
 This specification will be based on the existing extensions model and
@@ -207,6 +202,12 @@ standardize [Browser
 Extensions](https://browserext.github.io/browserext/). Much good
 progress was made, but unfortunately the spec did not gain sufficient
 interest from implementers and work on it ceased.
+
+The editors for this deliverable are:
+
+  * Mukul Purohit (Microsoft)
+  * Tomislav Jovanovic (Mozilla)
+
 
 ### Non-Normative Reports
 
